@@ -1,34 +1,3 @@
-      "affiliateDisclosure": true
-    },
-    {
-      "id": "tesla",
-      "type": "referral",
-      "title": "Tesla",
-      "eyebrow": "Referral",
-      "offer": "3 months FSD (Supervised) or $400 off Solar",
-      "link": "https://ts.la/jerone609231",
-      "code": null,
-      "startsAt": null,
-      "expiresAt": null,
-      "priority": 5,
-      "active": true,
-      "affiliateDisclosure": true
-    },
-    {
-      "id": "onepay",
-      "type": "referral",
-      "title": "OnePay",
-      "eyebrow": "Banking Referral",
-      "offer": "Earn $50 cash back",
-      "link": "https://web.onepay.com/wlink/refer-a-friend?product=one_banking&referral_code=l2ARQW94w&referrer_campaign_id=campaign.8e50139f-839f-4274-ba41-dd991a0b0eb6",
-      "code": null,
-      "startsAt": null,
-      "expiresAt": null,
-      "priority": 5,
-      "active": true,
-      "affiliateDisclosure": true
-    },
-    {
       "id": "spring-back-logo",
       "type": "product",
       "source": "spring",
@@ -41,8 +10,9 @@
       "startsAt": null,
       "expiresAt": null,
       "priority": 7,
-      "active": true,
-      "affiliateDisclosure": false
+      "active": false,
+      "affiliateDisclosure": false,
+      "pausedReason": "Spring/Teespring listings currently unavailable or out of stock during storefront migration."
     },
     {
       "id": "spring-toon-leggings",
@@ -57,8 +27,9 @@
       "startsAt": null,
       "expiresAt": null,
       "priority": 7,
-      "active": true,
-      "affiliateDisclosure": false
+      "active": false,
+      "affiliateDisclosure": false,
+      "pausedReason": "Spring/Teespring listings currently unavailable or out of stock during storefront migration."
     },
     {
       "id": "spring-all-thumbs-gaming",
@@ -73,8 +44,9 @@
       "startsAt": null,
       "expiresAt": null,
       "priority": 8,
-      "active": true,
-      "affiliateDisclosure": false
+      "active": false,
+      "affiliateDisclosure": false,
+      "pausedReason": "Spring/Teespring listings currently unavailable or out of stock during storefront migration."
     },
     {
       "id": "spring-who-do-you-think-i-am",
@@ -89,8 +61,9 @@
       "startsAt": null,
       "expiresAt": null,
       "priority": 6,
-      "active": true,
-      "affiliateDisclosure": false
+      "active": false,
+      "affiliateDisclosure": false,
+      "pausedReason": "Spring/Teespring listings currently unavailable or out of stock during storefront migration."
     },
     {
       "id": "spring-straw-hat-chef",
@@ -105,8 +78,9 @@
       "startsAt": null,
       "expiresAt": null,
       "priority": 8,
-      "active": true,
-      "affiliateDisclosure": false
+      "active": false,
+      "affiliateDisclosure": false,
+      "pausedReason": "Spring/Teespring listings currently unavailable or out of stock during storefront migration."
     },
     {
       "id": "spring-all-thumbs-in-love",
@@ -121,8 +95,9 @@
       "startsAt": null,
       "expiresAt": null,
       "priority": 6,
-      "active": true,
-      "affiliateDisclosure": false
+      "active": false,
+      "affiliateDisclosure": false,
+      "pausedReason": "Spring/Teespring listings currently unavailable or out of stock during storefront migration."
     }
   ]
 }
