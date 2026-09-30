@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-29T21:30:00-07:00",
+  "settings": {
+    "refreshMinutes": 5,
+    "hideExpired": true,
+    "hideBeforeStart": true
+  },
+  "promos": [
+    {
+      "id": "spring-store",
+      "type": "house",
+      "title": "All Thumbs Merch",
+      "eyebrow": "All Thumbs Originals",
+      "offer": "Shop the All Thumbs Store",
+      "link": "https://allthumbsgaming.creator-spring.com/",
+      "code": null,
+      "startsAt": null,
+      "expiresAt": null,
+      "priority": 5,
+      "active": true,
+      "affiliateDisclosure": false
+    },
+    {
+      "id": "advanced",
+      "type": "affiliate",
+      "title": "ADVANCED.gg",
+      "eyebrow": "All Thumbs Partner",
+      "offer": "Use code All_Thumbs",
+      "link": "https://advanced.gg/?ref=All_Thumbs",
+      "code": "All_Thumbs",
+      "startsAt": null,
+      "expiresAt": null,
+      "priority": 6,
+      "active": true,
+      "affiliateDisclosure": true
+    },
+    {
+      "id": "loaded-tea",
+      "type": "affiliate",
+      "title": "The Loaded Tea Shop",
+      "eyebrow": "Viewer Deal",
+      "offer": "10% off any order",
+      "link": "",
+      "code": "JERONE66512",
+      "startsAt": null,
+      "expiresAt": null,
+      "priority": 6,
+      "active": true,
+      "affiliateDisclosure": true
+    },
+    {
+      "id": "xsolla",
+      "type": "affiliate",
+      "title": "Xsolla Partner Network",
+      "eyebrow": "Featured Game Deal",
+      "offer": "Type !deal for the current game offer",
+      "link": "",
+      "code": "!deal",
+      "startsAt": null,
+      "expiresAt": null,
+      "priority": 5,
+      "active": true,
+      "affiliateDisclosure": true
+    }
+  ]
+}
